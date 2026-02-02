@@ -21,4 +21,4 @@
 ---
 
 ## 📫 Connect  
-[GitHub](https://github.com/YOUR_USERNAME) | [LinkedIn](#) | Email: youremail@example.com
+[GitHub](https://github.com/YOUR_USERNAME) | [LinkedIn](https://www.linkedin.com/in/bishal-gaihre-16391b229/) | Email: bisugaihre9846@gmail.com
