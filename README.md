@@ -2,9 +2,9 @@
 # BisuJs
 # Hi 👋, I'm Bishal Gaihre  
 
-💼 Full Stack Developer @ **Your Company Name** | MERN, Shopify Apps, AI & AWS  
+💼 Frontend Developer @ **Qunitpros**
 🌱 Always learning new tech | Building scalable web & mobile solutions  
-🚀 Passionate about AI, stock market analysis & innovative projects  
+🚀 Passionate about AI & innovative projects  
 
 ---
 
