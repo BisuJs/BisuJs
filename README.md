@@ -1,8 +1,7 @@
-# BisuJs
-# BisuJs
+
 # Hi 👋, I'm Bishal Gaihre  
 
-💼 Frontend Developer @ **Qunitpros**
+💼 Software Developer @**Qunitpros**
 🌱 Always learning new tech | Building scalable web & mobile solutions  
 🚀 Passionate about AI & innovative projects  
 
